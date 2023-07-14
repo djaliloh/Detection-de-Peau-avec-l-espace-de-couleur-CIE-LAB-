@@ -1,0 +1,36 @@
+apprentissage/3.jpg
+% Taux Pixel Peau bien detect: 65.6614%.
+% taux Pixel Peau correct: 78.111%.
+apprentissage/4.jpg
+% Taux Pixel Peau bien detect: 58.5621%.
+% taux Pixel Peau correct: 88.0737%.
+apprentissage/5.jpg
+% Taux Pixel Peau bien detect: 45.8308%.
+% taux Pixel Peau correct: 48.5144%.
+apprentissage/6.jpg
+% Taux Pixel Peau bien detect: 96.9124%.
+% taux Pixel Peau correct: 84.1621%.
+apprentissage/7.jpg
+% Taux Pixel Peau bien detect: 91.6612%.
+% taux Pixel Peau correct: 33.5985%.
+apprentissage/8.jpg
+% Taux Pixel Peau bien detect: 90.4321%.
+% taux Pixel Peau correct: 13.5725%.
+apprentissage/10.jpg
+% Taux Pixel Peau bien detect: 59.3267%.
+% taux Pixel Peau correct: 65.2322%.
+apprentissage/12.jpg
+% Taux Pixel Peau bien detect: 58.2231%.
+% taux Pixel Peau correct: 63.5434%.
+apprentissage/13.jpg
+% Taux Pixel Peau bien detect: 58.2231%.
+% taux Pixel Peau correct: 61,62213%.
+apprentissage/14.jpg
+% Taux Pixel Peau bien detect: 63,5341.
+% taux Pixel Peau correct: 97.2696%.
+apprentissage/15.jpg
+% Taux Pixel Peau bien detect: 81.8583%.
+% taux Pixel Peau correct: 90.1091%.
+apprentissage/16.jpg
+% Taux Pixel Peau bien detect: 18,2255%.
+% taux Pixel Peau correct: 25.3421%.
